@@ -9,7 +9,7 @@ Applied linguist interested in technologies and natural language processing
 Python, learning JS
 
 ### Education
-* Kharkiv Polytechnic Institute
+* Kharkiv Polytechnic Institute: Applied and computational linguistics (2017 - 2021)
 * Grammarly Compling Summer School
 
 ### English
